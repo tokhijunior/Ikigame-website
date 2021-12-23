@@ -97,7 +97,7 @@
     background-size: 30px 30px;
 }
 .dots {
-    background-image: url("../imgs/dots.png");
+    background-image: url("../images/dots.png");
     height: 186px;
     width: 204px;
     background-repeat: no-repeat;
@@ -1461,7 +1461,7 @@ a {
 /* END VIDEOS */
 /* START STATS */
 .stats {
-    background-image: url(/images/stats.jpg);
+    background-image: url(../images/stats.jpg);
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     background-size: cover;
@@ -1553,7 +1553,7 @@ a {
     padding-bottom: 50px;
   }
   .discount .image {
-    background-image: url(../imgs/discount-background1.jpg);
+    background-image: url(../images/discount-background1.jpg);
     background-size: cover;
     color: white;
     flex-basis: 50%;
